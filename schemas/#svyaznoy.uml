@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>RailsDependency</ID>
+  <OriginalElement>#svyaznoy</OriginalElement>
+  <nodes>
+    <node x="474.0" y="10.500000000000057">User</node>
+    <node x="0.0" y="791.5">AdminUser</node>
+    <node x="1288.0" y="102.08333333333331">Like</node>
+    <node x="0.0" y="74.83333333333331">Photo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Photo" target="User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="User" target="Like">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Photo" target="Like">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="User" target="Photo">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5562444641275465" x="769.5" y="554.5" />
+  <SelectedNodes>
+    <node>Like</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Association fields</Category>
+    <Category>Migration fields</Category>
+    <Category>Own fields</Category>
+    <Category>System DB fields</Category>
+  </Categories>
+</Diagram>
+
