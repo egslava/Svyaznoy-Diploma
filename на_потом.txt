@@ -1,0 +1,12 @@
+<string name="add_only_your_photo__">Добавляйте только свои фото в свой аккаунт. Другие члены клуба должны легко узнать Вас по этим фото. Фото других людей не могут быть добавлены в профиль.</string>
+
+<string name="add_only_your_photo__">Please use only your photos in your account. Other club members should easily get to know you on these photos. You can't add photos of other people.</string>
+
+FLPD0610
+
+
+На потом:
+Оглавление
+Переносы букв
+Задание
+Flickr
